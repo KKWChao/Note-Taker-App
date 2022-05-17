@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "epxress": "^0.0.1-security",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2"
   }
 }
