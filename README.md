@@ -1,6 +1,10 @@
 # Note Taker Application
 
+Github <br>
 https://github.com/KKWChao/Note-Taker-App
+
+Heroku Deployment <br>
+https://warm-dusk-77651.herokuapp.com/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
